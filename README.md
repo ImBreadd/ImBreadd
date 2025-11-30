@@ -31,6 +31,13 @@ favourite_tools:
     "C#",
   ]
 
+languages:
+  [
+    "native: Croatian/Serbian",
+    "fluent: English",
+    "learning: Korean, German",
+  ]
+
 currently_learning: ["C++, Python, Rocket Science and AWS"]
 hobbies: ["Gaming", "Fitness", "3D Printing", "Reading", "Engineering"]
 
