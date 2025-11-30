@@ -1,16 +1,74 @@
-## Hi there 👋
+<h2>About me</h2>
 
-<!--
-**ImBreadd/ImBreadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Bread
+located_in: United Kingdom
+current_job: .NET Developer
+education:
+  [
+    "BSc (Hons) Computer Science",
+    "A Levels in Physics, Mathematics and Computer Science",
+  ]
 
-Here are some ideas to get you started:
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "DevOps",
+    "Space Engineering"
+  ]
+technical_background:
+  [
+    "Full Stack Developer",
+    ".NET Developer",
+  ]
+favourite_tools:
+  [
+    "Visual Studio",
+    "SSMS",
+    "GitHub",
+    "React",
+    "C#",
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["C++, Python, Rocket Science and AWS"]
+hobbies: ["Gaming", "Fitness", "3D Printing", "Reading", "Engineering"]
+
+current_read_list:
+  [
+    "The Pragmatic Programmer",
+    "The Mythical Man-Month",
+    "How to Teach Quantum Physics to Your Dog",
+    "Modern Engineering for the Design of Propelled Rockets",
+    "Fundamentals of Aerodynamics",
+  ]
+
+```
+
+<h2>Tech Stack</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="50"/>
+</p>
+
+
+
+<h2>Get in touch</h2>
+<p align="center">
+  <a href="mailto:imbreaddcareers@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="50" alt="email"/>
+</a>
+
+</p>
