@@ -79,3 +79,5 @@ current_read_list:
 </a>
 
 </p>
+
+![Snake animation](https://github.com/ImBreadd/ImBreadd/blob/output/github-contribution-grid-snake.svg)
