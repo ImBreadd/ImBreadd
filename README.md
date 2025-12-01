@@ -38,7 +38,7 @@ languages:
     "learning: Korean, German",
   ]
 
-currently_learning: ["C++, Python, Rocket Science and AWS"]
+currently_learning: ["C++, Python, Rocket Propulsion and AWS"]
 hobbies: ["Gaming", "Fitness", "3D Printing", "Reading", "Engineering"]
 
 current_read_list:
